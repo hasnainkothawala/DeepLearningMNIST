@@ -6,17 +6,16 @@ For this repository, the work has been  are divided into mutliple notebooks. Eac
 
 # Here is a brief outline:
 
-## Part 1_1 builds a softmax classifier and implements the following functions:
+ 1. Part 1_1 builds a softmax classifier and implements the following functions:
     1. forward_pass
     2. cross_entrophy
     3. calculate_accuracy
     
-## Part 1_2_1 and Part 1_2_2 build two different architectures with ReLu
+ 2. Part 1_2_1 and Part 1_2_2 build two different architectures with ReLu
 
-## Part 1_3 Adds L1 (Lasso) and L2 (Ridge) regularization to the above architectures.
+ 3. Part 1_3 Adds L1 (Lasso) and L2 (Ridge) regularization to the above architectures.
 
-
-## Part B - Compares the Above (scratch implementation) with the high level Keras API using TensorFlow.
+ 4. Part B - Compares the Above (scratch implementation) with the high level Keras API using TensorFlow.
 
 
 # The Analysis Report comprises of:
